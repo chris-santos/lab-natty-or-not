@@ -23,20 +23,45 @@ Olá pessoal, Venilton da DIO aqui! Inspirado na hype _"Natty or Not"_ do fisicu
 # Título do Projeto Extremamente Aesthetic ;)
 
 ## 📒 Descrição
-Breve descrição do seu projeto
+Criação de uma poesia
 
 ## 🤖 Tecnologias Utilizadas
-Liste as IAs Generativas e outras ferramentas usadas
+copilot 
 
 ## 🧐 Processo de Criação
-Descreva como você criou o conteúdo
+prompt usado no copilot: crie uma poesia no estilo de vinicius de moraes
 
 ## 🚀 Resultados
-Apresente os resultados do seu projeto
+Claro, vou tentar criar uma poesia no estilo de Vinicius de Moraes para você:
+
+```
+No mar de estrelas, o violão solitário
+Toca acordes de saudade e melodia
+A lua, confidente, sorri no cenário
+Enquanto a brisa sussurra poesia
+
+Na praia, os pés descalços na areia fina
+Seguem trilhas invisíveis de paixão
+E o coração, como um barco à deriva
+Navega em versos de amor e solidão
+
+Ah, Vinicius, poeta das noites serenas
+Tuas palavras ecoam como canções
+Em cada verso, há uma alma plena
+E o mundo se rende às tuas emoções
+
+Que a vida seja um samba, um soneto
+E que a saudade dance em cada verso
+Como Vinicius, que eternizou o afeto
+Em melodias que o tempo não disperso.
+```
+
+
 
 ## 💭 Reflexão (Opcional)
 Comente sobre o desafio de criar algo 'natty' com IA.
 ```
+![OIG2](https://github.com/user-attachments/assets/86c6c72c-5f59-46c1-804c-965f1b873651)
 
 ### Exemplos e Insigths
 
